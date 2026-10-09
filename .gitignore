@@ -1,0 +1,10 @@
+# 含明文密码的配置文件，切勿提交
+config.json
+
+# 抓取与合并产生的 Excel（含业务数据）
+*.xlsx
+
+# Python 缓存
+__pycache__/
+*.pyc
+.env

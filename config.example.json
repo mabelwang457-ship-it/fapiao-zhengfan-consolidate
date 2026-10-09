@@ -1,0 +1,10 @@
+{
+  "_comment": "复制本文件为 config.json，填入真实账号密码后再运行 python scrape.py --config config.json。注意：config.json 含明文密码，请勿提交到 git 或随工具转发。",
+  "base_url": "http://gyl.zyred.com",
+  "user": "你的登录账号",
+  "password": "你的登录密码",
+  "gysbm": "你的供应商编码",
+  "bmbm": "你的商户编码",
+  "month": "202609",
+  "output": "开票明细_网站抓取.xlsx"
+}
